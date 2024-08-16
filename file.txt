@@ -1,3 +1,0 @@
-This is demo file 
-learning python
-My final commit
